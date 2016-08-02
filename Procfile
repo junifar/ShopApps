@@ -1,1 +1,1 @@
-web: python test.py --host 0.0.0.0
+web: python test.py --host rubahbiru.herokuapp.com -port 80
